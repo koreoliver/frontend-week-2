@@ -1,11 +1,14 @@
 /* Exercise 1 */
+
+
 p {
   color: green
 }
 
 h1 {
-  text-align: center
-}
+  text-align: center;
+  margin-top :60px;
+}   
 
 a {
   text-decoration: none
@@ -15,6 +18,34 @@ html {
   font-family: Helvetica Neue, Arial;
   background: whitesmoke;
 }
+
+nav {
+    background: white; 
+    top: 0;
+    left: 0;
+    position: fixed; 
+    border: 1px solid gray;
+    width: 100%;
+}
+
+
+img {
+  padding-right:10px; 
+}
+
+html{
+  background-image:url(http://static.comicvine.com/uploads/original/11113/111134695/3891161-6868490335-cats-.jpg);
+  background-color: black;
+}
+
+
+
+
+li{
+  text-align: center;
+  display: inline;
+}
+
 
 
 /*******************************************************************************

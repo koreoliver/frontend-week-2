@@ -41,6 +41,27 @@ nav{
   border: 1px solid gray;
 }
 
+#about {
+  border: green;
+}
+
+.highlight {
+  background: yellow;
+}
+
+#about p {
+  margin-left: 30px;
+}
+
+nav ul {
+  color :blue;
+}
+
+blockquote {
+  background-image:url("http://bit.ly/1IlHeMx");
+}
+
+
 
 /*******************************************************************************
 
