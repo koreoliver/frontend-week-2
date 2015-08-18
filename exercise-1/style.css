@@ -16,5 +16,32 @@ Named Colors: http://bit.ly/1g8MdPc
 ********************************************************************************
 */
 
+body {
+    background:blue;
+}
 
+html {
+    font-family: helvetica;
+    background: red;
+}
 
+h1 {
+    font: arial;
+    color: red;
+    font-size: 12;
+    text-align: center;
+}
+
+ul {
+    font: helvetica;
+    color: purple;
+    font-size: 5;
+}
+
+a:link{
+    color:ffa500;
+}
+
+p {
+    color:green;
+}
