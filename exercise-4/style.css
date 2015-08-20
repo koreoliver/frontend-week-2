@@ -11,3 +11,15 @@ label {
   width: 100%;
 }
 
+form-style{
+
+    border-width: 500px;
+    position: center;
+    background-color: green; 
+}
+
+input[type=form]{
+    border-width: 500px;
+    position: center;
+}
+
